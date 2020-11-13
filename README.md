@@ -7,11 +7,11 @@ This file contains information on my implementation of DQN in the LunarLander-v2
 
 ## 1. Environment
 This image shows the LunarLander-v2 environment and control inputs.
-![Env][img/LunarLanderEnv.jpg]
+![Env][/img/LunarLanderEnv.JPEG]
 
 ## 2. DQN Model
 This image demonstrates the neural network used in the implementation of DQN. The 8D state is input to the network, which approximates a Q-Value for each of the four actions.
-![Model][img/neuralnetwork.jpg]
+![Model][/img/neuralnetwork.JPEG]
 
 ## 3. Setup
 
