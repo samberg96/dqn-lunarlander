@@ -11,7 +11,7 @@ This image shows the LunarLander-v2 environment and control inputs.
 
 ## 2. DQN Model
 This image demonstrates the neural network used in the implementation of DQN. The 8D state is input to the network, which approximates a Q-Value for each of the four actions.
-![Model](/img/neuralnetwork.JPG)
+![Model](/img/neuralnetwork.jpg)
 
 ## 3. Setup
 
@@ -20,7 +20,7 @@ First, we require the installation of OpenAI Gym's Box2D environments. These env
 https://medium.com/@sayanmndl21/install-openai-gym-with-box2d-and-mujoco-in-windows-10-e25ee9b5c1d5
 
 In addition to this, we will be using out-of-the-box RL packages including Keras, Tensorflow, and keras-rl. It is important to use
-a version of Pyhton that is compatible across all of the packages. This is the configuration that I used:
+a version of Python that is compatible across all of the packages. This is the configuration that I used:
 
 Python - 3.6
 
