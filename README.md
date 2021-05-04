@@ -3,7 +3,7 @@ Implementation of DQN in OpenAI Gym LunarLander-v2 discrete environment.
 
 Sam Weinberg (sam.weinberg@mail.utoronto.ca)
 
-This file contains information on my implementation of DQN in the LunarLander-v2 environment. Refer to the report (LunarLander_Report.pdf) for further readings.
+This file contains information on my implementation of DQN in the LunarLander-v2 environment. Refer to the report (LunarLander_Report.pdf) for further readings and check out the training demo video at the end!
 
 ## 1. Environment
 This image shows the LunarLander-v2 environment and control inputs.
@@ -53,3 +53,11 @@ b) To load in model weights, specifiy the load_weights paramter to True. Specify
 ## 6. Plotting
 
 The plotting file plots the logs of the training data. They require one log for each of the four algorithm types. Change the file locations to the location on your computer. The final training logs can be found in the 'Logs' folder.
+
+## 7. Demo
+
+Here's a little training demo taken from my final presentation video. It shows how the agent's policy starts with random inputs and improves over time.
+
+https://user-images.githubusercontent.com/65782873/116949856-63b3fa80-ac51-11eb-9370-404c71734c43.mp4
+
+
